@@ -13,7 +13,7 @@ export default class Tier1 extends Component {
     this.state = {
       color: initialColor,
       childColor: childColor,
-      grandChildColor: getReducedColor
+      grandChildColor: grandChildColor
     }
   }
 
